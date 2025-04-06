@@ -8,7 +8,9 @@
 
 ## Summary
 
-Senior Software Engineer with 8+ years of experience building scalable backend systems using Go and Java, with a strong focus on Clean Architecture and TDD. Proven track record in fintech and high-traffic platforms (e.g., Mercado Libre), with solid experience in microservices, AWS, and team leadership. Open to backend roles in fast-paced tech environments in the U.S., ideally with visa sponsorship.
+Senior Software Engineer with 8+ years of experience building scalable backend systems using Go and Java, with a strong focus on Clean Architecture and TDD. Proven track record in fintech and high-traffic platforms (e.g., Mercado Libre), with solid experience in microservices, AWS, and team leadership.
+
+Open to backend and leadership roles in fast-paced tech environments in the U.S., ideally with visa sponsorship.
 
 ---
 
