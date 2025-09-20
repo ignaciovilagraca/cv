@@ -37,7 +37,7 @@ Open to backend and leadership roles in fast-paced tech environments in the U.S.
 - Worked with AWS, gRPC, PostgreSQL and REST APIs in a microservices environment.
 - Participated in on-call rotations and collaborated closely with cross-functional teams.
 
-### The Bridge Social — Technical Lead | Sep 2022 – Sep 2023
+### Lynk Jamaica — Technical Lead | Sep 2022 – Sep 2023
 - Led the development and coordination of backend services in a fintech environment.
 - Reviewed pull requests, mentored team members and conducted interviews.
 - Worked with Java, Spring Boot, PostgreSQL, Kafka and Azure.
